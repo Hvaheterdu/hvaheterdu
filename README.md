@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Burhan Mohammad Sarfraz
 
-💻 Backend Developer
-🤖 Robotics & AI Background
-🔒 Privacy-Focused Machine Learning Enthusiast
+💻 Backend Developer.\
+🤖 Robotics & AI Background.\
+🔒 Privacy-Focused Machine Learning Enthusiast.\
 
-I am a **backend developer at Norwegian Public Roads Administration** working on **robust systems for the public sector**.
+I am a **backend developer at Norwegian Public Roads Administration (Statens Vegvesen)** working on **robust systems for the public sector**.
 
 My interests lie at the intersection of **secure backend systems, machine learning, computer vision, privacy-preserving technologies, and trustworthy AI**.
 
@@ -27,9 +27,9 @@ My interests lie at the intersection of **secure backend systems, machine learni
 Embedded IoT system for measuring environmental data using Arduino.
 
 **Features**
-- Real-time temperature and humidity monitoring
-- Sensor integration with microcontrollers
-- Practical IoT / embedded system design
+- Real-time temperature and humidity monitoring.
+- Sensor integration with microcontrollers.
+- Practical IoT / embedded system design.
 
 🔗 https://github.com/Hvaheterdu/arduino-thermo-hygrometer
 
@@ -39,9 +39,9 @@ Embedded IoT system for measuring environmental data using Arduino.
 Application that notifies users about daily prayer times.
 
 **Features**
-- Automatic retrieval and calculation of prayer times
-- Notification system
-- Lightweight and simple implementation
+- Automatic retrieval and calculation of prayer times.
+- Notification system with sound and visual through a Arduino board.
+- Lightweight and simple implementation.
 
 🔗 https://github.com/Hvaheterdu/salah-notifier
 
@@ -51,9 +51,9 @@ Application that notifies users about daily prayer times.
 
 **Burhan Mohammad Sarfraz**, Diana Saplacan Lindblom, Adel Baselizadeh, and Jim Torresen.
 
-*The Privacy-Preserving Capabilities of a Service Robot in a Scenario-Based Healthcare Setting.*
+*The Privacy-Preserving Capabilities of a Service Robot in a Scenario-Based Healthcare Setting*.
 
-Companion Proceedings of the **21st ACM/IEEE International Conference on Human-Robot Interaction (HRI Companion '26)**.
+**In Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI Companion '26)**.
 
 Association for Computing Machinery, New York, NY, USA, 675–679.
 
