@@ -8,8 +8,8 @@ systemer for offentlig sektor.
 Jeg brenner for **sikker systemutvikling, konsis kode og testbar
 arkitektur**, og jobber samtidig med å videreutvikle kompetansen min
 innen **Machine Learning, Computer Vision og dataanalyse** -- spesielt
-med fokus på **innebygd personvern, rettferdig AI og pålitelige
-AI/ML-systemer**.
+med fokus på **innebygd personvern, rettferdig KI og pålitelige
+KI/ML-systemer**.
 
 ------------------------------------------------------------------------
 
