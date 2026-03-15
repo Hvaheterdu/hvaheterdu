@@ -1,103 +1,97 @@
-# 👋 Hei, jeg er Burhan Mohammad Sarfraz
+# 👋 Hi, I'm Burhan Mohammad Sarfraz
 
-Backend-utvikler med bakgrunn innen **robotikk, kunstig intelligens og
-systemutvikling**.\
-Jeg jobber i dag hos **Statens vegvesen** hvor jeg utvikler robuste
-systemer for offentlig sektor.
+💻 Backend Developer
+🤖 Robotics & AI Background
+🔒 Privacy-Focused Machine Learning Enthusiast
 
-Jeg brenner for **sikker systemutvikling, konsis kode og testbar
-arkitektur**, og jobber samtidig med å videreutvikle kompetansen min
-innen **Machine Learning, Computer Vision og dataanalyse** -- spesielt
-med fokus på **innebygd personvern, rettferdig KI og pålitelige
-KI/ML-systemer**.
+I am a **backend developer at Norwegian Public Roads Administration** working on **robust systems for the public sector**.
 
-------------------------------------------------------------------------
+My interests lie at the intersection of **secure backend systems, machine learning, computer vision, privacy-preserving technologies, and trustworthy AI**.
 
-# 🧠 Prosjekter
+---
 
-## Arduino Thermo Hygrometer
+# 🎯 Key Qualifications
 
-GitHub: https://github.com/Hvaheterdu/arduino-thermo-hygrometer
+- Backend developer focused on **secure system development, concise and testable code**.
+- **Machine Learning / Computer Vision engineer and data analyst**.
+- Focus on **privacy-by-design and fair, trustworthy AI/ML systems**.
+- Experience building **backend systems, APIs, and data-intensive systems**.
+- Research background in **robotics and AI systems**, including scientific publication.
+- Strong interest in **responsible AI and privacy-preserving technologies**.
 
-Et innebygd system utviklet med Arduino for måling av temperatur og
-luftfuktighet.
+---
 
-Funksjoner:
-- Sanntidsmåling av temperatur og luftfuktighet
-- Sensorintegrasjon med mikrokontroller
-- Praktisk IoT / embedded prosjekt for miljømåling
+# 🚀 Projects
 
-------------------------------------------------------------------------
+### Arduino Thermo Hygrometer
+Embedded IoT system for measuring environmental data using Arduino.
 
-## Salah Notifier
+**Features**
+- Real-time temperature and humidity monitoring
+- Sensor integration with microcontrollers
+- Practical IoT / embedded system design
 
-GitHub: https://github.com/Hvaheterdu/salah-notifier
+🔗 https://github.com/Hvaheterdu/arduino-thermo-hygrometer
 
-En applikasjon som varsler brukeren om bønnetider.
+---
 
-Funksjoner:
-- Henting og beregning av bønnetider
-- Varslingssystem
-- Fokus på enkel og brukervennlig implementasjon
+### Salah Notifier
+Application that notifies users about daily prayer times.
 
-------------------------------------------------------------------------
+**Features**
+- Automatic retrieval and calculation of prayer times
+- Notification system
+- Lightweight and simple implementation
 
-# 🧠 Vitenskapelige publikasjoner
+🔗 https://github.com/Hvaheterdu/salah-notifier
+
+---
+
+# 📚 Scientific Publication
 
 **Burhan Mohammad Sarfraz**, Diana Saplacan Lindblom, Adel Baselizadeh, and Jim Torresen.
 
-*The Privacy-Preserving Capabilities of a Service Robot in a Scenario-Based Healthcare Setting*.
+*The Privacy-Preserving Capabilities of a Service Robot in a Scenario-Based Healthcare Setting.*
 
-In Companion Proceedings of the 21st ACM/IEEE International Conference on Human-Robot Interaction (HRI Companion '26).
+Companion Proceedings of the **21st ACM/IEEE International Conference on Human-Robot Interaction (HRI Companion '26)**.
 
 Association for Computing Machinery, New York, NY, USA, 675–679.
 
-https://doi.org/10.1145/3776734.3794481
+📄 https://doi.org/10.1145/3776734.3794481
 
-------------------------------------------------------------------------
+---
 
-# 🛠️ Teknologi og verktøy
+# 🛠️ Technologies
 
-**Backend** - Java - Spring Boot - Maven
+### Backend
+Java • Spring Boot • Maven
 
-**Database** - SQL - Oracle DB
+### Database
+SQL • Oracle DB
 
-**DevOps** - Docker - Git
+### DevOps
+Docker • Git
 
-**Andre områder** - Machine Learning - Computer Vision - Dataanalyse
+### AI / Data
+Python • Machine Learning • Computer Vision • Data Analysis
 
-------------------------------------------------------------------------
+---
 
-# 📜 Sertifiseringer
+# 📜 Certifications
 
 ### Microsoft / Azure
-
--   AZ-204 -- Azure Developer Associate
--   DP-203 -- Azure Data Engineer Associate
--   DP-100 -- Azure Data Scientist Associate
--   AI-102 -- Azure AI Engineer Associate
--   AI-900 -- Azure AI Fundamentals
--   AZ-900 -- Azure Fundamentals
--   DP-900 -- Azure Data Fundamentals
--   PL-900 -- Power Platform Fundamentals
--   SC-900 -- Security, Compliance, and Identity Fundamentals
+AZ-204 • DP-203 • DP-100 • AI-102
+AI-900 • AZ-900 • DP-900 • PL-900 • SC-900
 
 ### Python
-
--   PCPP1 -- Certified Professional Python Programmer
--   PCAP -- Certified Associate Python Programmer
--   PCEP -- Certified Entry-Level Python Programmer
+PCPP1 • PCAP • PCEP
 
 ### Web / JavaScript
+WDA • WDE • JSA • JSE
 
--   WDA -- Certified Associate Web Developer
--   WDE -- Certified Entry-Level Web Developer
--   JSA -- Certified Associate JavaScript Programmer
--   JSE -- Certified Entry-Level JavaScript Programmer
+---
 
-------------------------------------------------------------------------
+# 📫 Contact
 
-# 📫 Kontakt
-
--   📧 burhan.mohammad.sarfraz@gmail.com
--   💻 GitHub: https://github.com/Hvaheterdu
+📧 burhan.mohammad.sarfraz@gmail.com  
+💻 https://github.com/Hvaheterdu
