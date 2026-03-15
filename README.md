@@ -1,6 +1,6 @@
 # 👋 Hei, jeg er Burhan Mohammad Sarfraz
 
-Fullstack-utvikler med bakgrunn innen **robotikk, kunstig intelligens og
+Backend-utvikler med bakgrunn innen **robotikk, kunstig intelligens og
 systemutvikling**.\
 Jeg jobber i dag hos **Statens vegvesen** hvor jeg utvikler robuste
 systemer for offentlig sektor.
