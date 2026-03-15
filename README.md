@@ -80,7 +80,7 @@ Python • Machine Learning • Computer Vision • Data Analysis
 # 📜 Certifications
 
 ### Microsoft / Azure
-AZ-204 • DP-203 • DP-100 • AI-102
+AZ-204 • DP-203 • DP-100 • AI-102 •
 AI-900 • AZ-900 • DP-900 • PL-900 • SC-900
 
 ### Python
