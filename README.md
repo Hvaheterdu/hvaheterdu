@@ -13,7 +13,7 @@ My interests lie at the intersection of **secure backend systems, data analytics
 # 🎯 Key Qualifications
 
 - Backend developer focused on **secure system development, concise and testable code**.
-- **Machine Learning / Computer Vision engineer and data analyst**.
+- Broadening expertise in **machine Learning, computer vision and data analystics**.
 - Focus on **privacy-by-design and fair, trustworthy AI/ML systems**.
 - Experience building **backend systems, APIs, and data-intensive systems**.
 - Research background in **robotics and AI systems**, including scientific publication.
