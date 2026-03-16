@@ -89,13 +89,13 @@ Python • Machine Learning • Computer Vision • Data Analytics
 # 📜 Certifications
 
 ### Microsoft / Azure
-AI-900 • AZ-900 • DP-900 • PL-900 • SC-900 • AI-102 • AZ-204 • DP-203 • DP-100
+AI-900 • AZ-900 • DP-900 • PL-900 • SC-900 • AI-102 • AZ-204 • DP-100 • DP-203
 
 ### Python
 PCEP • PCAP • PCPP1
 
 ### Web / JavaScript
-JSA • JSE • WDE • WDA
+JSE • JSA • WDE • WDA
 
 ------------------------------------------------------------------------
 
