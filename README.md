@@ -2,7 +2,7 @@
 
 💻 Backend Developer.\
 🤖 Robotics & AI Background.\
-🔒 Privacy-Focused Machine Learning Enthusiast.\
+🔒 Privacy-Focused Machine Learning Enthusiast.
 
 I am a **backend developer at Norwegian Public Roads Administration (Statens Vegvesen)** working on **robust systems for the public sector**.
 
