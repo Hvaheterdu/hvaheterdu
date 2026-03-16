@@ -13,7 +13,7 @@ My interests lie at the intersection of **secure backend systems, data analytics
 # 🎯 Key Qualifications
 
 - Backend developer focused on **secure system development, concise and testable code**.
-- Broadening expertise in **machine Learning, computer vision and data analystics**.
+- Broadening expertise in **machine learning, computer vision, and data analytics**.
 - Focus on **privacy-by-design and fair, trustworthy AI/ML systems**.
 - Experience building **backend systems, APIs, and data-intensive systems**.
 - Research background in **robotics and AI systems**, including scientific publication.
@@ -40,7 +40,7 @@ Application that notifies users about daily prayer times.
 
 **Features**
 - Automatic retrieval and calculation of prayer times.
-- Notification system with sound and visual through a Arduino board.
+- Notification system with sound and visual through an Arduino board.
 - Lightweight and simple implementation.
 
 🔗 https://github.com/Hvaheterdu/salah-notifier
