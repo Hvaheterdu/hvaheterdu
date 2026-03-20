@@ -9,7 +9,7 @@ My interests lie at the intersection of:
 
 -   Secure backend systems.
 -   Machine learning and computer vision.
--   Data science and advanced analytics.
+-   Data science and analytics.
 -   Privacy-preserving technologies.
 -   Trustworthy and responsible AI.
 
