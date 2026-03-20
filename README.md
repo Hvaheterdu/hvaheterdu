@@ -3,14 +3,13 @@
 Backend Developer • AI & Robotics Background • Privacy-Focused ML
 
 Backend developer at **Norwegian Public Roads Administration (Statens
-Vegvesen)** working on systems that contribute to **road safety and
-reliable public infrastructure**.
+Vegvesen)** working on systems that contribute to **road safety on Norwegian roads**.
 
 My interests lie at the intersection of:
 
 -   Secure backend systems.
 -   Machine learning and computer vision.
--   Data analytics.
+-   Data science and advanced analytics.
 -   Privacy-preserving technologies.
 -   Trustworthy and responsible AI.
 
@@ -19,10 +18,11 @@ My interests lie at the intersection of:
 # 🎯 Key Focus Areas
 
 -   Secure backend development and **robust API design**.
--   **Privacy-by-design** in AI and data systems.
--   Machine learning and **computer vision applications**.
--   **Data-intensive systems and analytics pipelines**.
--   **Trustworthy AI and responsible ML**.
+-   Privacy-by-design in AI and data systems.
+-   Machine learning and computer vision applications.
+-   Data science and data-driven decision making.
+-   Data-intensive systems and analytics pipelines.
+-   Trustworthy AI and responsible ML.
 
 ------------------------------------------------------------------------
 
